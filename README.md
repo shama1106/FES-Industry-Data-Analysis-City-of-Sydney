@@ -101,6 +101,9 @@ Raw Data → Python Cleaning → Processed Dataset → Power BI Dashboard → We
 
 ## 📊 DASHBOARD (POWER BI)
 
+> Note: The interactive Power BI dashboard requires university account access.  
+> Dashboard screenshots are provided below for public portfolio viewing.
+
 ### 🔹 Main Dashboard
 ![Dashboard Overview](images/dashboard-main.png)
 
