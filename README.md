@@ -105,13 +105,20 @@ Raw Data → Python Cleaning → Processed Dataset → Power BI Dashboard → We
 > Dashboard screenshots are provided below for public portfolio viewing.
 
 ### 🔹 Main Dashboard
-![Dashboard Overview](images/dashboard-main.png)
+<img width="1171" height="798" alt="Screenshot 2025-11-08 125041" src="https://github.com/user-attachments/assets/aa120718-7776-4b98-9d61-4e02a5a54518" />
+
+
+<img width="1570" height="838" alt="Screenshot 2025-11-08 125804" src="https://github.com/user-attachments/assets/ba4c4506-d753-4ae2-a8c7-5ccbd9b7848a" />
+
+
 
 ### 🔹 Growth Analysis
-![Growth Dashboard](images/dashboard-growth.png)
+<img width="1166" height="789" alt="Screenshot 2025-11-08 125131" src="https://github.com/user-attachments/assets/7e471cd0-174a-49db-b81b-4f4ba7a7c55b" />
+
 
 ### 🔹 Industry Distribution Map
-![Map Dashboard](images/dashboard-map.png)
+<img width="1589" height="848" alt="Screenshot 2025-11-08 125853" src="https://github.com/user-attachments/assets/b938d2a8-5ee5-4b57-84bc-81ddb402583f" />
+
 
 ---
 
